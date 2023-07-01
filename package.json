@@ -1,0 +1,14 @@
+{
+  "name": "backend_con_marcelo1",
+  "version": "0.0.1",
+  "description": "this is a practice ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "L",
+  "license": "MIT"
+}
